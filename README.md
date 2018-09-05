@@ -3,8 +3,8 @@
 
 Лабораторын ажлууд:
 
-* [Лаб 00. Вэб сервер](/lab00-webserver.md)
+* [Лаб 01. Вэб сервер](/lab01-webserver.md)
 
-* [Лаб 01. PHP хэл](/lab01-php.md)
+* [Лаб 02. PHP хэл](/lab02-php.md)
 
-* [Лаб 02. PHP ба MySQL](/lab02-php-mysql.md)
+* [Лаб 03. PHP ба MySQL](/lab03-php-mysql.md)
