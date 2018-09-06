@@ -127,4 +127,4 @@ Listen 80
 2. Код 2-т үзүүлсэн файлыг үүсгэсэн repository-д хуулж файлыг өөрчилж commit хийнэ. GitHub.com сайтын вэб интерфэйсээр файлыг өөрчилж болно. Гэвч энэ дасгалаар өөрийн хөгжүүлэлтийн компьютерээс [Git](https://git-scm.com/) програм ашиглан commit хийнэ.
 
 ## Ном зүй
-[1] Robin Nixon, Learning PHP, MySQL, JavaScript, CSS & HTML5, 3rd Edition, 2014, 729 pages, ISBN: 978-1-491-94946-7 [2] Kevin Tatroe, Peter MacIntyre, Rasmus Lerdorf, Programming PHP, 3rd Edition, 2013, 540 pages, ISBN: 978-1-4493-9277-2
+[1] Robin Nixon, Learning PHP, MySQL, JavaScript, CSS & HTML5, 3rd Edition, 2014, 729 pages, ISBN: 978-1-491-94946-7
